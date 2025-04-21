@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/migration-map/static/css/main.91246441.css",
+    "main.js": "/migration-map/static/js/main.59286237.js",
+    "static/js/453.7c1a3a66.chunk.js": "/migration-map/static/js/453.7c1a3a66.chunk.js",
+    "index.html": "/migration-map/index.html",
+    "main.91246441.css.map": "/migration-map/static/css/main.91246441.css.map",
+    "main.59286237.js.map": "/migration-map/static/js/main.59286237.js.map",
+    "453.7c1a3a66.chunk.js.map": "/migration-map/static/js/453.7c1a3a66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91246441.css",
+    "static/js/main.59286237.js"
+  ]
+}
